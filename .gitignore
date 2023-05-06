@@ -1,0 +1,3 @@
+.env
+recipe-snap-app/build
+recipe-snap-app/node_modules
